@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sebastianpennino/billBuddy.git"
+    "url": "git+https://github.com/sebastianpennino/bill-buddy.git"
   },
   "keywords": [
     "bill",
@@ -27,7 +27,7 @@
   ],
   "author": "sebastianpennino",
   "license": "MIT",
-  "homepage": "https://github.com/sebastianpennino/billBuddy#readme",
+  "homepage": "https://github.com/sebastianpennino/bill-buddy#readme",
   "dependencies": {
     "decimal.js": "10.4.3",
     "gh-pages": "6.1.1",
